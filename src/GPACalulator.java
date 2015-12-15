@@ -184,7 +184,7 @@ public class GPACalulator extends JFrame{
 				myPanel.revalidate();
 	
 			}
-			if (event.getSource()== _calculateButton)
+			if (event.getSource()== _calculateButton) 
 			{
 				_calculateGPA();
 			}
